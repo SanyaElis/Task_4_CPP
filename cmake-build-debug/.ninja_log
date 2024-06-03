@@ -1,0 +1,10 @@
+# ninja log v6
+37	143	7391575684909463	task_4_autogen/timestamp	83bd7f1686b64b9
+642	3433	7391566251667539	CMakeFiles/task_4.dir/main.cpp.obj	d45f39979b81f003
+37	143	7391575684909463	D:/repos/6thTerm/LPCPP/task_4/cmake-build-debug/task_4_autogen/mocs_compilation.cpp	83bd7f1686b64b9
+37	143	7391575684909463	task_4_autogen/mocs_compilation.cpp	83bd7f1686b64b9
+37	143	7391575684909463	D:/repos/6thTerm/LPCPP/task_4/cmake-build-debug/task_4_autogen/timestamp	83bd7f1686b64b9
+635	3479	7391566251607493	CMakeFiles/task_4.dir/task_4_autogen/mocs_compilation.cpp.obj	6d6b4fef76b1263f
+5570	7338	7391575740241677	task_4.exe	69da98b317a8561c
+681	1352	7391537116084208	CMakeFiles/task_4.dir/src/Logger.cpp.obj	e9669e37c23a718f
+143	5570	7391575685969477	CMakeFiles/task_4.dir/src/App.cpp.obj	140e2e07bab6507a

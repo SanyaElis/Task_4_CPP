@@ -1,0 +1,5 @@
+D:/repos/6thTerm/LPCPP/task_4/cmake-build-debug/CMakeFiles/task_4.dir
+D:/repos/6thTerm/LPCPP/task_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/repos/6thTerm/LPCPP/task_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/repos/6thTerm/LPCPP/task_4/cmake-build-debug/CMakeFiles/task_4_autogen_timestamp_deps.dir
+D:/repos/6thTerm/LPCPP/task_4/cmake-build-debug/CMakeFiles/task_4_autogen.dir

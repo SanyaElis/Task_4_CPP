@@ -1,0 +1,16 @@
+quick=fast,swift,rapid
+brown=dark,brunette
+fox=vulpine,canid
+jumps=leaps,hops,bounds
+over=above,across,beyond
+lazy=idle,slothful,lethargic
+dog=canine,puppy,hound
+happy=joyful,content,pleased
+new=fresh,modern,novel
+job=work,position,occupation
+went=traveled,journeyed,proceeded
+market=bazaar,store,shop
+buy=purchase,acquire,obtain
+fresh=crisp,clean,unspoiled
+vegetables=greens,produce,veggies
+fruits=fruit,produce,berries
